@@ -31,7 +31,7 @@ dataset_settings = {
     }
 }
 
-CLOTHING_IDS_TO_REMOVE = [5, 6, 7] # Upper-clothes, Dress, Coat
+CLOTHING_IDS_TO_REMOVE = [] # Upper-clothes, Dress, Coat
 AGNOSTIC_MAP_HEIGHT = 256
 AGNOSTIC_MAP_WIDTH = 192
 
